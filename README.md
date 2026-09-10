@@ -1,2 +1,6 @@
 # na-ctl-search-project-generator-svc
-catalog / critical / na
+
+Team: **catalog**  
+Tier: **critical**  
+Region: **na**  
+Synthetic demo repo for the Domo governance platform.
